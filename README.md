@@ -1,4 +1,4 @@
-# VM_MODULO_VPC_AWS
+# VM com modulo VPC - AWS
 Aqui nessa configuração temos um módulo local de VPC que está sendo mencionado no MAIN, onde deverá optar por setar as informações interessantes para seu uso quanto as variáveis ali mencionadas:
 
 - cidr vpc
